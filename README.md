@@ -1,5 +1,7 @@
 # Gotify Android [![Build Status][github-action-badge]][github-action] [![FOSSA Status][fossa-badge]][fossa] [![latest release version][release-badge]][release] [![F-Droid][fdroid-badge]][fdroid]
 
+[中文说明](README_zh.md)
+
 <img align="right" src="app.gif" width="250" />
 
 Gotify Android connects to [gotify/server](https://github.com/gotify/server) and shows push notifications on new messages.
